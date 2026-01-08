@@ -1,0 +1,15 @@
+h1{
+	color:red;
+}
+
+li{
+    border: 1px solid blue;
+}
+
+#select{
+    background: red;
+}
+
+.underline{
+    text-decoration: underline;
+}

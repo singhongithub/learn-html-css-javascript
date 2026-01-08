@@ -1,0 +1,10 @@
+h1{
+	background: rgb(000, 255, 000);
+    border: 1px solid red;
+}
+
+body{
+    background: url("sunrise.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

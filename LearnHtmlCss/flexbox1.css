@@ -1,0 +1,38 @@
+.flexContainer{
+    border: 3px solid blue;
+    display: flex;
+    flex-direction: row;
+}
+
+.box1{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    /*flex-basis: 40%;*/
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.box2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    flex-grow: 1;
+    flex-shrink: 5;
+    /*flex-basis: 60%;*/
+}
+
+.box3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+}
+
+.box4{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    flex: 0 1 auto;
+
+}

@@ -1,0 +1,25 @@
+.yellow{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.green{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    clear: both;
+    margin-left: 250px;
+    box-shadow: 7px 6px 5px black;
+
+    border-radius: 40px;
+    transform: rotate(45deg);
+}

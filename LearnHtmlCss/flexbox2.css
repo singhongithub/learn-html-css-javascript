@@ -1,0 +1,33 @@
+.flexContainer{
+    background-color: yellow;
+    height: 200px;
+    display: flex;
+    /*justify-content: space-evenly;*/
+    /*flex-flow: row wrap;*/
+    /*align-items: flex-start;*/
+    align-content: stretch;
+
+}
+
+.box{
+    width: 50px;
+    background-color: pink;
+    border: 1px solid blue
+
+}
+
+
+/*.box1{*/
+/*    height: 55px;*/
+
+/*}*/
+/*.box2{*/
+/*    height: 75px;*/
+
+/*}*/
+/*.box3{*/
+/*    height: 100px;*/
+/*    align-self: flex-start;*/
+
+
+/*}*/

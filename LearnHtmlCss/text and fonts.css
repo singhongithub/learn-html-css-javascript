@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Arial', serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: overline;
+}
+
+p{
+    font-family: 'Arial', serif;
+    font-size: 1.1em;
+    line-height: 1.5;
+    text-decoration: underline;
+}
